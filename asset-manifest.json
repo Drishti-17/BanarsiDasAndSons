@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BanarsiDasAndSons/static/css/main.068bd30c.css",
-    "main.js": "/BanarsiDasAndSons/static/js/main.89df5d05.js",
+    "main.js": "/BanarsiDasAndSons/static/js/main.58562b7d.js",
     "static/media/header_img.png": "/BanarsiDasAndSons/static/media/header_img.87c84a24f79531681564.png",
     "static/media/menu_1.png": "/BanarsiDasAndSons/static/media/menu_1.5fc25f0de1d1d8576711.png",
     "static/media/menu_5.png": "/BanarsiDasAndSons/static/media/menu_5.c3724e208f31b03caa67.png",
@@ -49,10 +49,10 @@
     "static/media/food_32.png": "/BanarsiDasAndSons/static/media/food_32.148dd28e641015050713.png",
     "index.html": "/BanarsiDasAndSons/index.html",
     "main.068bd30c.css.map": "/BanarsiDasAndSons/static/css/main.068bd30c.css.map",
-    "main.89df5d05.js.map": "/BanarsiDasAndSons/static/js/main.89df5d05.js.map"
+    "main.58562b7d.js.map": "/BanarsiDasAndSons/static/js/main.58562b7d.js.map"
   },
   "entrypoints": [
     "static/css/main.068bd30c.css",
-    "static/js/main.89df5d05.js"
+    "static/js/main.58562b7d.js"
   ]
 }
